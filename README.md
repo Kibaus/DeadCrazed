@@ -27,10 +27,10 @@ Menu Back Button      | LC + Button
 # Guby Studio Team Members
 - Asia - Project Manager, Narrative Writer, Environment Artist
 
-- Daniel - General Artist, Concept Artist, Rigger, Animator
+- Daniel - General Artist, Character Artist, Animator, Rigging
 
 - Kiyaan - Assistant Manager, Sound Designer, SFX, Audio Recorder, Voice Actor
 
 - Seth - Primary Programmer, Narrative Programmer, Voice Actor
 
-- Tasha - Secondary Programmer, Rigger, Voice Actor
+- Tasha - Secondary Programmer, Rigging, Voice Actor
